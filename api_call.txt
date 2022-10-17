@@ -1,0 +1,9 @@
+{
+    "name": "Pickle",
+    "age": 8,
+    "breed": "Husky",
+    "gender": "Male",
+    "color": "Pink",
+    "favoritefood": "Puppy Chow",
+    "favoritetoy": "Fake Pizza"
+}
